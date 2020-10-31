@@ -9,7 +9,7 @@ body {
 }
 
 .our-services {
-  background: url("/img/tomato.png") no-repeat 1061px #70bfff;
+  background: url("../img/tomato.png") no-repeat 1061px #70bfff;
 }
 .our-services__body {
   display: flex;
